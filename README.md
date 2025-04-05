@@ -1,7 +1,9 @@
 # 📊 Dashboard de Logística e Pós-Venda - Análise de Eficiência  
 🔍 Monitoramento da logística de peças e desempenho do pós-venda para otimização operacional  
 
-<!--![Imagem do Dashboard](caminho/para/screenshot.png) <!-- Substitua com o caminho correto da imagem -->-->
+![Imagem do Dashboard](/home.png) <!-- Substitua com o caminho correto da imagem -->
+![Imagem do Dashboard](/Logistica.png) <!-- Substitua com o caminho correto da imagem -->
+![Imagem do Dashboard](/Manutencao.png) <!-- Substitua com o caminho correto da imagem -->
 
 ## 📌 Sobre o Projeto  
 Este dashboard foi desenvolvido para analisar **eficiência na logística de peças** e **desempenho no pós-venda**, permitindo identificar **gargalos operacionais e oportunidades de melhoria**.
