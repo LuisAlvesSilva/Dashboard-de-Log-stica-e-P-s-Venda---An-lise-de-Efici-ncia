@@ -46,7 +46,7 @@ Este dashboard foi desenvolvido para analisar **eficiência na logística de pe�
 3. Explore os insights!  
 
 ## 📢 Conecte-se Comigo  
-- 🔗 Me siga no [LinkedIn](https://www.linkedin.com/LuisAlvesSilva) para mais projetos de análise de dados  
+- 🔗 Me siga no [LinkedIn](https://www.linkedin.com/in/luisalvessilva/) para mais projetos de análise de dados  
 - ⭐ Se gostou, dê um star no repositório!
 
 ---
