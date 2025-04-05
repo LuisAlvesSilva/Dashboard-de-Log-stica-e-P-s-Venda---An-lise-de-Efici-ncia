@@ -3,7 +3,7 @@
 
 ![Imagem do Dashboard](/home.png) <!-- Substitua com o caminho correto da imagem -->
 ![Imagem do Dashboard](/Logistica.png) <!-- Substitua com o caminho correto da imagem -->
-![Imagem do Dashboard](/Manutencao.png) <!-- Substitua com o caminho correto da imagem -->
+![Imagem do Dashboard](/manutencao.png) <!-- Substitua com o caminho correto da imagem -->
 
 ## 📌 Sobre o Projeto  
 Este dashboard foi desenvolvido para analisar **eficiência na logística de peças** e **desempenho no pós-venda**, permitindo identificar **gargalos operacionais e oportunidades de melhoria**.
