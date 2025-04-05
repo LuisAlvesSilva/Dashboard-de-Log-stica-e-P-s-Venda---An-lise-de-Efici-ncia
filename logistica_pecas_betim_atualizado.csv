@@ -1,0 +1,201 @@
+Peca,Criticidade,Regiao_Origem,Destino,Distancia_KM,Tempo_Entrega_Dias,Custo_Frete,Transportadora,Taxa_Atraso,Modelo_Carro
+Carroceria,Baixa,Santa Catarina (SC),Betim (MG),1599,11,1192.39,Transportadora Alfa,0.34,Fiat Argo
+Acessórios,Média,Argentina (ARG),Betim (MG),3024,8,1738.25,Transportadora Beta,0.28,Fiat Fastback
+Freios,Baixa,Rio Grande do Sul (RS),Betim (MG),2018,3,4173.37,Transportadora Beta,0.21,Fiat Toro
+Acessórios,Média,Paraná (PR),Betim (MG),2074,6,6667.78,Transportadora Alfa,0.06,Fiat Strada
+Transmissão,Baixa,Paraná (PR),Betim (MG),695,2,6913.44,Transportadora Beta,0.29,Fiat Strada
+Acessórios,Média,Paraná (PR),Betim (MG),3073,10,4759.32,Transportadora Beta,0.24,Fiat Cronos
+Acessórios,Média,Paraná (PR),Betim (MG),358,8,3340.9,Transportadora Gama,0.4,Fiat Toro
+Elétrica,Média,Paraná (PR),Betim (MG),1150,13,6521.68,Transportadora Alfa,0.04,Fiat Argo
+Interior,Baixa,São Paulo (SP),Betim (MG),2534,6,4489.29,Transportadora Beta,0.36,Fiat Pulse
+Acessórios,Alta,Pernambuco (PE),Betim (MG),2274,10,3148.92,Transportadora Gama,0.36,Fiat Cronos
+Carroceria,Alta,Rio Grande do Sul (RS),Betim (MG),3262,10,2458.83,Transportadora Beta,0.12,Fiat Fastback
+Transmissão,Baixa,Paraná (PR),Betim (MG),1763,7,2588.43,Transportadora Beta,0.44,Fiat Toro
+Freios,Alta,Rio Grande do Sul (RS),Betim (MG),2814,5,5046.42,Transportadora Alfa,0.46,Fiat Strada
+Motor,Média,São Paulo (SP),Betim (MG),2424,9,1104.06,Transportadora Gama,0.08,Fiat Strada
+Elétrica,Média,São Paulo (SP),Betim (MG),472,9,3381.21,Transportadora Gama,0.1,Fiat Strada
+Motor,Média,Paraná (PR),Betim (MG),2470,14,2086.52,Transportadora Gama,0.22,Fiat Strada
+Carroceria,Média,Santa Catarina (SC),Betim (MG),2830,1,7861.92,Transportadora Gama,0.26,Fiat Argo
+Transmissão,Média,Pernambuco (PE),Betim (MG),3083,1,3222.02,Transportadora Beta,0.39,Fiat Argo
+Interior,Baixa,Bahia (BA),Betim (MG),702,3,5602.94,Transportadora Gama,0.14,Fiat Cronos
+Carroceria,Média,Pernambuco (PE),Betim (MG),2727,2,3957.18,Transportadora Gama,0.43,Fiat Pulse
+Suspensão,Média,Rio Grande do Sul (RS),Betim (MG),3641,6,2217.08,Transportadora Gama,0.24,Fiat Cronos
+Suspensão,Alta,São Paulo (SP),Betim (MG),1508,1,6046.33,Transportadora Gama,0.45,Fiat Cronos
+Motor,Alta,Rio Grande do Sul (RS),Betim (MG),524,15,7972.6,Transportadora Beta,0.23,Fiat Argo
+Freios,Baixa,São Paulo (SP),Betim (MG),1102,2,5856.03,Transportadora Gama,0.19,Fiat Argo
+Freios,Média,Pernambuco (PE),Betim (MG),2334,15,958.64,Transportadora Alfa,0.13,Fiat Strada
+Motor,Média,Pernambuco (PE),Betim (MG),1483,15,3877.41,Transportadora Beta,0.39,Fiat Fastback
+Interior,Média,Argentina (ARG),Betim (MG),1393,8,6706.62,Transportadora Gama,0.33,Fiat Cronos
+Freios,Alta,Bahia (BA),Betim (MG),1980,2,887.89,Transportadora Beta,0.35,Fiat Strada
+Motor,Média,São Paulo (SP),Betim (MG),1643,2,5472.42,Transportadora Gama,0.39,Fiat Fastback
+Freios,Baixa,Argentina (ARG),Betim (MG),3553,4,1205.97,Transportadora Alfa,0.02,Fiat Toro
+Acessórios,Média,Pernambuco (PE),Betim (MG),2412,9,7307.78,Transportadora Alfa,0.44,Fiat Cronos
+Elétrica,Baixa,Argentina (ARG),Betim (MG),1546,8,2903.08,Transportadora Gama,0.44,Fiat Pulse
+Acessórios,Baixa,Pernambuco (PE),Betim (MG),770,10,6695.72,Transportadora Gama,0.47,Fiat Argo
+Suspensão,Média,Rio Grande do Sul (RS),Betim (MG),989,15,2112.42,Transportadora Beta,0.37,Fiat Strada
+Carroceria,Alta,Pernambuco (PE),Betim (MG),2605,3,7386.56,Transportadora Beta,0.37,Fiat Fastback
+Motor,Média,Argentina (ARG),Betim (MG),1368,8,2828.4,Transportadora Gama,0.01,Fiat Argo
+Elétrica,Baixa,Bahia (BA),Betim (MG),2848,7,6345.91,Transportadora Gama,0.17,Fiat Argo
+Elétrica,Alta,São Paulo (SP),Betim (MG),1530,5,7845.29,Transportadora Beta,0.28,Fiat Cronos
+Acessórios,Baixa,Argentina (ARG),Betim (MG),3029,1,7853.16,Transportadora Alfa,0.09,Fiat Argo
+Interior,Baixa,São Paulo (SP),Betim (MG),3579,9,5778.03,Transportadora Beta,0.13,Fiat Fastback
+Transmissão,Média,Paraná (PR),Betim (MG),881,2,5897.54,Transportadora Alfa,0.39,Fiat Argo
+Acessórios,Média,Pernambuco (PE),Betim (MG),2513,5,7349.75,Transportadora Alfa,0.05,Fiat Cronos
+Interior,Alta,Santa Catarina (SC),Betim (MG),245,2,6320.62,Transportadora Alfa,0.41,Fiat Toro
+Interior,Baixa,Argentina (ARG),Betim (MG),3413,7,2989.3,Transportadora Beta,0.31,Fiat Argo
+Carroceria,Média,Pernambuco (PE),Betim (MG),2556,14,940.18,Transportadora Alfa,0.21,Fiat Strada
+Freios,Baixa,Santa Catarina (SC),Betim (MG),3720,5,2329.83,Transportadora Alfa,0.46,Fiat Pulse
+Motor,Baixa,São Paulo (SP),Betim (MG),3412,9,3199.81,Transportadora Alfa,0.48,Fiat Argo
+Acessórios,Alta,Argentina (ARG),Betim (MG),1980,12,7432.84,Transportadora Beta,0.05,Fiat Cronos
+Freios,Baixa,Santa Catarina (SC),Betim (MG),1707,2,757.07,Transportadora Beta,0.16,Fiat Cronos
+Freios,Baixa,Paraná (PR),Betim (MG),2973,12,2000.48,Transportadora Beta,0.37,Fiat Toro
+Transmissão,Alta,Paraná (PR),Betim (MG),3389,5,7252.13,Transportadora Beta,0.14,Fiat Argo
+Acessórios,Alta,São Paulo (SP),Betim (MG),2404,14,7871.24,Transportadora Beta,0.34,Fiat Fastback
+Suspensão,Alta,Pernambuco (PE),Betim (MG),455,15,519.79,Transportadora Beta,0.02,Fiat Strada
+Carroceria,Baixa,Bahia (BA),Betim (MG),432,9,2537.67,Transportadora Gama,0.01,Fiat Toro
+Acessórios,Média,Rio de Janeiro (RJ),Betim (MG),159,10,6086.36,Transportadora Alfa,0.26,Fiat Argo
+Elétrica,Média,Paraná (PR),Betim (MG),394,3,1955.46,Transportadora Alfa,0.13,Fiat Cronos
+Transmissão,Alta,Pernambuco (PE),Betim (MG),3545,15,6009.87,Transportadora Beta,0.15,Fiat Argo
+Freios,Baixa,Pernambuco (PE),Betim (MG),510,7,1925.58,Transportadora Gama,0.1,Fiat Toro
+Suspensão,Baixa,Santa Catarina (SC),Betim (MG),2398,3,2530.57,Transportadora Beta,0.31,Fiat Strada
+Elétrica,Média,Bahia (BA),Betim (MG),1089,15,4338.53,Transportadora Alfa,0.34,Fiat Toro
+Interior,Alta,Pernambuco (PE),Betim (MG),1378,4,1787.41,Transportadora Beta,0.35,Fiat Cronos
+Elétrica,Baixa,Santa Catarina (SC),Betim (MG),2293,11,4821.1,Transportadora Gama,0.13,Fiat Argo
+Transmissão,Baixa,Pernambuco (PE),Betim (MG),3129,9,712.9,Transportadora Alfa,0.08,Fiat Cronos
+Motor,Baixa,Paraná (PR),Betim (MG),2246,8,978.65,Transportadora Alfa,0.05,Fiat Argo
+Suspensão,Baixa,Rio de Janeiro (RJ),Betim (MG),720,11,4812.42,Transportadora Beta,0.44,Fiat Strada
+Acessórios,Alta,Argentina (ARG),Betim (MG),1744,7,3663.1,Transportadora Beta,0.18,Fiat Toro
+Transmissão,Alta,Paraná (PR),Betim (MG),318,7,6075.32,Transportadora Beta,0.2,Fiat Fastback
+Carroceria,Média,Pernambuco (PE),Betim (MG),128,2,4235.56,Transportadora Beta,0.4,Fiat Argo
+Elétrica,Baixa,Rio Grande do Sul (RS),Betim (MG),922,5,7532.91,Transportadora Alfa,0.12,Fiat Fastback
+Motor,Baixa,Argentina (ARG),Betim (MG),1430,14,4190.34,Transportadora Gama,0.08,Fiat Argo
+Acessórios,Baixa,Bahia (BA),Betim (MG),1269,14,5859.88,Transportadora Alfa,0.14,Fiat Toro
+Transmissão,Baixa,Bahia (BA),Betim (MG),815,11,4635.22,Transportadora Beta,0.17,Fiat Pulse
+Motor,Baixa,Rio Grande do Sul (RS),Betim (MG),3746,6,3167.28,Transportadora Gama,0.39,Fiat Strada
+Acessórios,Baixa,Argentina (ARG),Betim (MG),1904,4,5946.54,Transportadora Beta,0.04,Fiat Strada
+Elétrica,Baixa,Argentina (ARG),Betim (MG),2221,9,7382.09,Transportadora Alfa,0.19,Fiat Pulse
+Elétrica,Média,Rio Grande do Sul (RS),Betim (MG),200,6,4258.76,Transportadora Gama,0.42,Fiat Pulse
+Suspensão,Média,Rio Grande do Sul (RS),Betim (MG),2476,4,3725.02,Transportadora Gama,0.09,Fiat Strada
+Carroceria,Baixa,Rio Grande do Sul (RS),Betim (MG),1667,10,6301.07,Transportadora Beta,0.36,Fiat Fastback
+Motor,Alta,Paraná (PR),Betim (MG),668,3,906.64,Transportadora Alfa,0.49,Fiat Argo
+Freios,Média,Pernambuco (PE),Betim (MG),681,4,1895.2,Transportadora Beta,0.42,Fiat Pulse
+Acessórios,Alta,Paraná (PR),Betim (MG),3147,10,7904.38,Transportadora Gama,0.49,Fiat Toro
+Carroceria,Baixa,Paraná (PR),Betim (MG),1913,14,1942.4,Transportadora Beta,0.17,Fiat Toro
+Acessórios,Média,Argentina (ARG),Betim (MG),159,14,7168.88,Transportadora Gama,0.27,Fiat Argo
+Transmissão,Alta,Rio de Janeiro (RJ),Betim (MG),3067,1,3203.75,Transportadora Gama,0.11,Fiat Fastback
+Acessórios,Média,Rio de Janeiro (RJ),Betim (MG),3898,1,5267.93,Transportadora Alfa,0.08,Fiat Strada
+Freios,Baixa,Paraná (PR),Betim (MG),164,5,4272.24,Transportadora Beta,0.24,Fiat Pulse
+Transmissão,Média,Rio de Janeiro (RJ),Betim (MG),1007,13,2982.81,Transportadora Beta,0.05,Fiat Argo
+Interior,Alta,Argentina (ARG),Betim (MG),2676,14,609.67,Transportadora Gama,0.42,Fiat Cronos
+Suspensão,Baixa,Rio Grande do Sul (RS),Betim (MG),2355,4,7044.72,Transportadora Alfa,0.43,Fiat Fastback
+Elétrica,Média,Rio de Janeiro (RJ),Betim (MG),1778,5,7384.99,Transportadora Gama,0.06,Fiat Pulse
+Freios,Baixa,Rio Grande do Sul (RS),Betim (MG),3385,14,1697.02,Transportadora Alfa,0.35,Fiat Fastback
+Motor,Alta,Paraná (PR),Betim (MG),1641,12,7082.26,Transportadora Gama,0.3,Fiat Argo
+Elétrica,Baixa,São Paulo (SP),Betim (MG),1184,12,2125.93,Transportadora Gama,0.13,Fiat Fastback
+Interior,Média,Santa Catarina (SC),Betim (MG),2092,9,3707.21,Transportadora Gama,0.01,Fiat Pulse
+Transmissão,Média,Rio de Janeiro (RJ),Betim (MG),283,1,4439.58,Transportadora Gama,0.43,Fiat Fastback
+Elétrica,Alta,São Paulo (SP),Betim (MG),1134,10,4824.26,Transportadora Gama,0.26,Fiat Fastback
+Acessórios,Média,Paraná (PR),Betim (MG),1352,2,7777.39,Transportadora Beta,0.35,Fiat Cronos
+Elétrica,Alta,Argentina (ARG),Betim (MG),2579,10,5165.25,Transportadora Beta,0.2,Fiat Pulse
+Motor,Média,Santa Catarina (SC),Betim (MG),459,8,7061.35,Transportadora Gama,0.39,Fiat Pulse
+Motor,Alta,São Paulo (SP),Betim (MG),3204,14,3290.35,Transportadora Gama,0.31,Fiat Cronos
+Motor,Média,Rio de Janeiro (RJ),Betim (MG),252,5,6476.13,Transportadora Alfa,0.23,Fiat Fastback
+Carroceria,Baixa,Argentina (ARG),Betim (MG),618,10,7690.11,Transportadora Alfa,0.03,Fiat Fastback
+Elétrica,Média,Santa Catarina (SC),Betim (MG),748,13,4519.52,Transportadora Gama,0.44,Fiat Fastback
+Motor,Baixa,Santa Catarina (SC),Betim (MG),3480,3,2297.17,Transportadora Gama,0.16,Fiat Cronos
+Interior,Média,Paraná (PR),Betim (MG),2203,12,3465.17,Transportadora Alfa,0.26,Fiat Argo
+Elétrica,Alta,Rio Grande do Sul (RS),Betim (MG),1177,2,4052.27,Transportadora Gama,0.48,Fiat Fastback
+Elétrica,Alta,Bahia (BA),Betim (MG),3343,13,3814.79,Transportadora Gama,0.16,Fiat Toro
+Motor,Baixa,São Paulo (SP),Betim (MG),3179,2,3851.22,Transportadora Gama,0.24,Fiat Pulse
+Carroceria,Média,São Paulo (SP),Betim (MG),1083,15,6977.43,Transportadora Beta,0.18,Fiat Argo
+Elétrica,Média,Pernambuco (PE),Betim (MG),702,8,3031.77,Transportadora Alfa,0.07,Fiat Cronos
+Freios,Alta,São Paulo (SP),Betim (MG),3541,14,810.91,Transportadora Beta,0.26,Fiat Argo
+Freios,Alta,Paraná (PR),Betim (MG),2903,15,4850.63,Transportadora Gama,0.34,Fiat Toro
+Transmissão,Alta,Pernambuco (PE),Betim (MG),2365,7,3501.42,Transportadora Gama,0.48,Fiat Argo
+Interior,Alta,Santa Catarina (SC),Betim (MG),2997,6,2626.77,Transportadora Alfa,0.11,Fiat Cronos
+Motor,Média,Argentina (ARG),Betim (MG),442,8,1875.99,Transportadora Alfa,0.04,Fiat Cronos
+Interior,Média,Santa Catarina (SC),Betim (MG),3041,1,1602.36,Transportadora Gama,0.09,Fiat Cronos
+Interior,Média,Santa Catarina (SC),Betim (MG),695,13,4391.81,Transportadora Beta,0.02,Fiat Pulse
+Freios,Média,Argentina (ARG),Betim (MG),1701,11,5948.68,Transportadora Beta,0.06,Fiat Cronos
+Acessórios,Média,Paraná (PR),Betim (MG),2274,11,1071.94,Transportadora Gama,0.22,Fiat Fastback
+Freios,Baixa,Argentina (ARG),Betim (MG),669,10,1787.63,Transportadora Alfa,0.14,Fiat Toro
+Motor,Média,Santa Catarina (SC),Betim (MG),3195,4,7261.53,Transportadora Beta,0.49,Fiat Fastback
+Acessórios,Média,Pernambuco (PE),Betim (MG),2850,3,1988.18,Transportadora Alfa,0.16,Fiat Argo
+Motor,Média,Rio de Janeiro (RJ),Betim (MG),1669,1,1281.94,Transportadora Beta,0.41,Fiat Pulse
+Interior,Alta,Argentina (ARG),Betim (MG),2642,5,4794.51,Transportadora Beta,0.01,Fiat Toro
+Interior,Média,Argentina (ARG),Betim (MG),2019,10,6009.03,Transportadora Alfa,0.04,Fiat Argo
+Suspensão,Baixa,Pernambuco (PE),Betim (MG),2135,4,6762.44,Transportadora Gama,0.36,Fiat Toro
+Transmissão,Baixa,Santa Catarina (SC),Betim (MG),1053,7,1229.01,Transportadora Beta,0.44,Fiat Toro
+Carroceria,Média,Paraná (PR),Betim (MG),3199,5,5819.87,Transportadora Beta,0.04,Fiat Fastback
+Motor,Alta,Paraná (PR),Betim (MG),2074,9,633.09,Transportadora Beta,0.47,Fiat Cronos
+Acessórios,Média,Bahia (BA),Betim (MG),540,4,566.65,Transportadora Gama,0.44,Fiat Strada
+Transmissão,Média,Pernambuco (PE),Betim (MG),205,6,6872.89,Transportadora Gama,0.0,Fiat Cronos
+Acessórios,Baixa,Pernambuco (PE),Betim (MG),754,12,2210.11,Transportadora Gama,0.33,Fiat Fastback
+Elétrica,Baixa,Argentina (ARG),Betim (MG),3897,1,6002.24,Transportadora Alfa,0.35,Fiat Toro
+Acessórios,Baixa,Argentina (ARG),Betim (MG),1648,2,6908.29,Transportadora Beta,0.26,Fiat Argo
+Elétrica,Baixa,Argentina (ARG),Betim (MG),2174,8,2086.72,Transportadora Gama,0.3,Fiat Argo
+Carroceria,Baixa,Santa Catarina (SC),Betim (MG),3851,1,2900.65,Transportadora Gama,0.24,Fiat Strada
+Suspensão,Média,Rio de Janeiro (RJ),Betim (MG),1820,4,6045.63,Transportadora Beta,0.49,Fiat Strada
+Elétrica,Média,Paraná (PR),Betim (MG),970,1,5406.22,Transportadora Gama,0.39,Fiat Argo
+Elétrica,Alta,Santa Catarina (SC),Betim (MG),2725,6,6693.73,Transportadora Alfa,0.36,Fiat Cronos
+Acessórios,Alta,Rio Grande do Sul (RS),Betim (MG),2230,13,2900.89,Transportadora Beta,0.13,Fiat Pulse
+Elétrica,Média,Argentina (ARG),Betim (MG),954,9,5719.43,Transportadora Beta,0.32,Fiat Cronos
+Elétrica,Baixa,Paraná (PR),Betim (MG),1783,13,7587.58,Transportadora Gama,0.16,Fiat Pulse
+Acessórios,Média,São Paulo (SP),Betim (MG),2462,11,5958.58,Transportadora Beta,0.14,Fiat Strada
+Transmissão,Baixa,Rio de Janeiro (RJ),Betim (MG),3807,6,6707.88,Transportadora Beta,0.02,Fiat Fastback
+Freios,Baixa,Pernambuco (PE),Betim (MG),541,1,7246.24,Transportadora Gama,0.13,Fiat Argo
+Interior,Média,Pernambuco (PE),Betim (MG),3598,13,3570.45,Transportadora Beta,0.48,Fiat Pulse
+Motor,Baixa,São Paulo (SP),Betim (MG),3236,15,2585.42,Transportadora Beta,0.27,Fiat Strada
+Transmissão,Média,Pernambuco (PE),Betim (MG),3022,2,1156.19,Transportadora Gama,0.09,Fiat Fastback
+Suspensão,Baixa,Pernambuco (PE),Betim (MG),373,5,4465.16,Transportadora Alfa,0.08,Fiat Toro
+Motor,Baixa,Paraná (PR),Betim (MG),3317,12,5084.85,Transportadora Beta,0.29,Fiat Toro
+Acessórios,Média,São Paulo (SP),Betim (MG),1720,6,5641.87,Transportadora Alfa,0.29,Fiat Toro
+Elétrica,Baixa,Pernambuco (PE),Betim (MG),1433,9,6979.57,Transportadora Alfa,0.41,Fiat Fastback
+Interior,Média,Paraná (PR),Betim (MG),3184,10,1281.57,Transportadora Alfa,0.34,Fiat Strada
+Motor,Média,Pernambuco (PE),Betim (MG),161,5,868.42,Transportadora Beta,0.25,Fiat Strada
+Carroceria,Alta,Bahia (BA),Betim (MG),3868,1,1660.19,Transportadora Beta,0.17,Fiat Pulse
+Motor,Baixa,Bahia (BA),Betim (MG),3423,9,5868.36,Transportadora Alfa,0.09,Fiat Strada
+Interior,Baixa,Bahia (BA),Betim (MG),3558,4,3178.84,Transportadora Gama,0.06,Fiat Cronos
+Elétrica,Baixa,Pernambuco (PE),Betim (MG),2051,1,6106.33,Transportadora Beta,0.37,Fiat Pulse
+Acessórios,Média,Bahia (BA),Betim (MG),656,4,5871.5,Transportadora Beta,0.45,Fiat Strada
+Acessórios,Baixa,Rio de Janeiro (RJ),Betim (MG),1945,3,6826.55,Transportadora Gama,0.19,Fiat Cronos
+Elétrica,Média,Rio Grande do Sul (RS),Betim (MG),3853,4,1962.14,Transportadora Gama,0.1,Fiat Toro
+Acessórios,Baixa,Rio de Janeiro (RJ),Betim (MG),254,4,1140.99,Transportadora Gama,0.03,Fiat Toro
+Elétrica,Média,Paraná (PR),Betim (MG),953,5,5749.42,Transportadora Alfa,0.1,Fiat Toro
+Acessórios,Média,Paraná (PR),Betim (MG),1089,11,2247.52,Transportadora Alfa,0.13,Fiat Strada
+Suspensão,Baixa,Rio de Janeiro (RJ),Betim (MG),2416,12,2867.65,Transportadora Alfa,0.47,Fiat Fastback
+Transmissão,Média,Bahia (BA),Betim (MG),604,13,1164.47,Transportadora Gama,0.14,Fiat Toro
+Suspensão,Alta,Rio Grande do Sul (RS),Betim (MG),2598,11,3904.33,Transportadora Beta,0.12,Fiat Argo
+Carroceria,Alta,Pernambuco (PE),Betim (MG),3362,8,5131.76,Transportadora Gama,0.17,Fiat Pulse
+Suspensão,Baixa,Bahia (BA),Betim (MG),2152,3,4913.5,Transportadora Beta,0.46,Fiat Strada
+Acessórios,Média,Argentina (ARG),Betim (MG),3088,13,4805.47,Transportadora Beta,0.05,Fiat Pulse
+Transmissão,Baixa,Bahia (BA),Betim (MG),534,5,3031.44,Transportadora Beta,0.01,Fiat Pulse
+Carroceria,Alta,Rio de Janeiro (RJ),Betim (MG),1673,7,3308.1,Transportadora Beta,0.09,Fiat Toro
+Transmissão,Baixa,São Paulo (SP),Betim (MG),1000,11,611.09,Transportadora Gama,0.35,Fiat Cronos
+Suspensão,Média,Argentina (ARG),Betim (MG),1045,12,955.22,Transportadora Beta,0.13,Fiat Toro
+Acessórios,Alta,Rio de Janeiro (RJ),Betim (MG),3054,3,4720.05,Transportadora Alfa,0.36,Fiat Cronos
+Carroceria,Média,Santa Catarina (SC),Betim (MG),1204,9,4082.38,Transportadora Gama,0.01,Fiat Cronos
+Transmissão,Baixa,Rio Grande do Sul (RS),Betim (MG),318,4,4696.88,Transportadora Alfa,0.26,Fiat Strada
+Suspensão,Alta,São Paulo (SP),Betim (MG),413,2,3035.94,Transportadora Beta,0.03,Fiat Strada
+Freios,Alta,Argentina (ARG),Betim (MG),2499,14,3420.84,Transportadora Gama,0.12,Fiat Toro
+Interior,Alta,Rio Grande do Sul (RS),Betim (MG),3335,5,793.64,Transportadora Gama,0.06,Fiat Cronos
+Interior,Baixa,Paraná (PR),Betim (MG),2157,7,7284.45,Transportadora Beta,0.02,Fiat Toro
+Carroceria,Média,Paraná (PR),Betim (MG),3608,9,7103.51,Transportadora Gama,0.16,Fiat Toro
+Carroceria,Baixa,Santa Catarina (SC),Betim (MG),342,9,6087.43,Transportadora Alfa,0.16,Fiat Fastback
+Freios,Baixa,Rio de Janeiro (RJ),Betim (MG),2731,11,1898.6,Transportadora Gama,0.1,Fiat Fastback
+Motor,Média,Rio Grande do Sul (RS),Betim (MG),1611,1,2902.46,Transportadora Gama,0.02,Fiat Strada
+Interior,Baixa,Santa Catarina (SC),Betim (MG),3300,12,3442.18,Transportadora Beta,0.2,Fiat Argo
+Acessórios,Média,Bahia (BA),Betim (MG),3724,8,1999.65,Transportadora Beta,0.0,Fiat Toro
+Motor,Alta,Argentina (ARG),Betim (MG),1945,6,3794.79,Transportadora Gama,0.3,Fiat Pulse
+Transmissão,Média,Rio de Janeiro (RJ),Betim (MG),530,8,7955.05,Transportadora Gama,0.26,Fiat Toro
+Freios,Baixa,Rio Grande do Sul (RS),Betim (MG),528,3,5754.12,Transportadora Beta,0.43,Fiat Strada
+Acessórios,Média,Rio Grande do Sul (RS),Betim (MG),2911,11,5594.81,Transportadora Alfa,0.14,Fiat Pulse
+Carroceria,Média,Rio de Janeiro (RJ),Betim (MG),322,5,6347.99,Transportadora Gama,0.0,Fiat Fastback
+Suspensão,Média,Argentina (ARG),Betim (MG),2773,12,4712.55,Transportadora Gama,0.39,Fiat Fastback
+Freios,Baixa,Rio de Janeiro (RJ),Betim (MG),2833,13,3457.55,Transportadora Beta,0.42,Fiat Strada
+Acessórios,Alta,Bahia (BA),Betim (MG),429,9,1430.56,Transportadora Alfa,0.2,Fiat Strada
+Elétrica,Média,São Paulo (SP),Betim (MG),3866,1,2127.79,Transportadora Gama,0.34,Fiat Cronos
+Motor,Alta,Pernambuco (PE),Betim (MG),507,4,1413.63,Transportadora Gama,0.19,Fiat Fastback
+Acessórios,Alta,Paraná (PR),Betim (MG),2846,14,5044.03,Transportadora Alfa,0.06,Fiat Cronos
+Motor,Média,Paraná (PR),Betim (MG),3732,2,1000.65,Transportadora Gama,0.25,Fiat Strada
+Freios,Média,São Paulo (SP),Betim (MG),2805,4,6813.86,Transportadora Gama,0.05,Fiat Strada

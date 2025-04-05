@@ -1,0 +1,201 @@
+Modelo_Carro,Peca,Criticidade,Concessionaria,Tipo_Servico,Tempo_Atendimento_Horas,Custo_Manutencao,Garantia,Satisfacao_Cliente
+Fiat Cronos,Interior,Baixa,Fiat BH (MG),Revisão,5,393.84,Sim,4
+Fiat Toro,Interior,Média,Fiat SP (SP),Diagnóstico,11,3133.25,Sim,3
+Fiat Fastback,Suspensão,Média,Fiat BH (MG),Revisão,18,2292.08,Sim,4
+Fiat Toro,Acessórios,Alta,Fiat Salvador (BA),Troca de Peça,17,3922.6,Sim,3
+Fiat Cronos,Carroceria,Média,Fiat BH (MG),Diagnóstico,2,3949.54,Não,4
+Fiat Toro,Motor,Baixa,Fiat SP (SP),Troca de Peça,7,4591.37,Sim,3
+Fiat Toro,Carroceria,Média,Fiat SP (SP),Revisão,13,4137.42,Não,3
+Fiat Argo,Suspensão,Média,Fiat SP (SP),Recall,12,227.47,Não,3
+Fiat Cronos,Transmissão,Média,Fiat RJ (RJ),Revisão,4,4251.36,Não,5
+Fiat Fastback,Motor,Baixa,Fiat RJ (RJ),Diagnóstico,20,2869.41,Não,2
+Fiat Strada,Freios,Alta,Fiat RJ (RJ),Diagnóstico,4,869.47,Não,2
+Fiat Argo,Freios,Média,Fiat BH (MG),Troca de Peça,2,2426.2,Sim,3
+Fiat Fastback,Transmissão,Baixa,Fiat SP (SP),Recall,9,2601.81,Sim,2
+Fiat Toro,Interior,Baixa,Fiat BH (MG),Revisão,5,2929.41,Não,3
+Fiat Cronos,Freios,Baixa,Fiat RJ (RJ),Revisão,1,2686.93,Sim,2
+Fiat Argo,Acessórios,Baixa,Fiat Porto Alegre (RS),Diagnóstico,4,1016.37,Não,5
+Fiat Strada,Freios,Baixa,Fiat Porto Alegre (RS),Diagnóstico,16,3493.44,Sim,1
+Fiat Argo,Carroceria,Média,Fiat SP (SP),Recall,9,4749.19,Sim,4
+Fiat Argo,Interior,Alta,Fiat Porto Alegre (RS),Recall,7,4499.35,Sim,3
+Fiat Argo,Carroceria,Alta,Fiat RJ (RJ),Diagnóstico,15,4638.27,Não,2
+Fiat Cronos,Interior,Média,Fiat SP (SP),Recall,4,4250.95,Sim,3
+Fiat Toro,Transmissão,Média,Fiat Porto Alegre (RS),Recall,4,380.4,Sim,2
+Fiat Fastback,Elétrica,Alta,Fiat RJ (RJ),Revisão,1,4470.0,Sim,1
+Fiat Argo,Elétrica,Baixa,Fiat BH (MG),Revisão,9,4807.96,Não,2
+Fiat Pulse,Freios,Média,Fiat SP (SP),Recall,8,1189.85,Sim,5
+Fiat Cronos,Carroceria,Baixa,Fiat SP (SP),Revisão,5,4470.61,Sim,5
+Fiat Argo,Carroceria,Média,Fiat RJ (RJ),Recall,12,1719.97,Sim,1
+Fiat Fastback,Carroceria,Baixa,Fiat Salvador (BA),Recall,11,2711.23,Sim,1
+Fiat Cronos,Interior,Baixa,Fiat RJ (RJ),Diagnóstico,13,4174.11,Sim,4
+Fiat Toro,Suspensão,Alta,Fiat SP (SP),Revisão,2,2743.57,Não,5
+Fiat Pulse,Freios,Baixa,Fiat SP (SP),Troca de Peça,15,3294.98,Sim,2
+Fiat Pulse,Suspensão,Baixa,Fiat BH (MG),Revisão,6,3206.45,Sim,5
+Fiat Toro,Suspensão,Alta,Fiat Porto Alegre (RS),Troca de Peça,11,1918.77,Sim,3
+Fiat Pulse,Freios,Baixa,Fiat SP (SP),Revisão,16,589.44,Não,5
+Fiat Pulse,Carroceria,Média,Fiat RJ (RJ),Recall,4,3238.14,Sim,3
+Fiat Fastback,Carroceria,Alta,Fiat RJ (RJ),Diagnóstico,19,2473.84,Sim,2
+Fiat Fastback,Freios,Média,Fiat RJ (RJ),Troca de Peça,11,391.36,Não,2
+Fiat Fastback,Motor,Baixa,Fiat RJ (RJ),Diagnóstico,10,3719.0,Sim,3
+Fiat Argo,Transmissão,Baixa,Fiat BH (MG),Diagnóstico,12,4233.12,Sim,4
+Fiat Pulse,Interior,Média,Fiat BH (MG),Recall,7,2873.31,Não,2
+Fiat Cronos,Acessórios,Média,Fiat Salvador (BA),Troca de Peça,18,2694.01,Não,5
+Fiat Cronos,Acessórios,Média,Fiat RJ (RJ),Troca de Peça,1,2600.71,Sim,5
+Fiat Fastback,Motor,Baixa,Fiat BH (MG),Revisão,16,385.35,Sim,5
+Fiat Argo,Elétrica,Baixa,Fiat RJ (RJ),Troca de Peça,17,3224.9,Sim,5
+Fiat Strada,Freios,Alta,Fiat RJ (RJ),Troca de Peça,9,2862.97,Sim,4
+Fiat Strada,Carroceria,Média,Fiat RJ (RJ),Troca de Peça,5,4976.71,Sim,2
+Fiat Strada,Acessórios,Média,Fiat RJ (RJ),Recall,13,896.47,Sim,3
+Fiat Fastback,Carroceria,Baixa,Fiat RJ (RJ),Troca de Peça,11,3346.27,Não,2
+Fiat Pulse,Motor,Média,Fiat Salvador (BA),Recall,18,3825.29,Sim,5
+Fiat Toro,Elétrica,Média,Fiat SP (SP),Diagnóstico,20,4838.57,Sim,5
+Fiat Cronos,Interior,Baixa,Fiat RJ (RJ),Recall,18,201.08,Sim,4
+Fiat Fastback,Transmissão,Baixa,Fiat SP (SP),Diagnóstico,15,319.75,Sim,2
+Fiat Cronos,Elétrica,Alta,Fiat Salvador (BA),Recall,19,859.19,Não,5
+Fiat Pulse,Motor,Baixa,Fiat SP (SP),Revisão,4,4402.92,Não,2
+Fiat Cronos,Elétrica,Alta,Fiat Porto Alegre (RS),Revisão,19,2717.49,Não,3
+Fiat Strada,Acessórios,Baixa,Fiat Salvador (BA),Diagnóstico,11,3550.09,Sim,1
+Fiat Pulse,Acessórios,Baixa,Fiat Porto Alegre (RS),Troca de Peça,20,4993.61,Sim,5
+Fiat Toro,Freios,Média,Fiat BH (MG),Troca de Peça,6,4515.62,Sim,1
+Fiat Cronos,Elétrica,Média,Fiat SP (SP),Diagnóstico,5,302.16,Sim,1
+Fiat Strada,Motor,Média,Fiat Salvador (BA),Revisão,2,1891.84,Sim,1
+Fiat Fastback,Transmissão,Alta,Fiat SP (SP),Recall,18,1712.02,Sim,5
+Fiat Fastback,Acessórios,Média,Fiat Salvador (BA),Diagnóstico,11,1259.03,Sim,2
+Fiat Fastback,Suspensão,Média,Fiat Salvador (BA),Recall,15,3623.64,Não,4
+Fiat Cronos,Freios,Alta,Fiat SP (SP),Diagnóstico,7,4179.19,Sim,3
+Fiat Argo,Carroceria,Baixa,Fiat RJ (RJ),Diagnóstico,4,533.71,Sim,3
+Fiat Cronos,Acessórios,Média,Fiat Salvador (BA),Revisão,17,3271.71,Não,4
+Fiat Argo,Transmissão,Baixa,Fiat BH (MG),Revisão,7,3807.14,Sim,2
+Fiat Strada,Acessórios,Média,Fiat RJ (RJ),Recall,17,4517.27,Sim,3
+Fiat Fastback,Motor,Baixa,Fiat SP (SP),Recall,20,4014.05,Não,1
+Fiat Cronos,Carroceria,Baixa,Fiat Porto Alegre (RS),Diagnóstico,15,4545.21,Não,4
+Fiat Argo,Transmissão,Alta,Fiat RJ (RJ),Troca de Peça,18,106.68,Sim,2
+Fiat Toro,Freios,Baixa,Fiat BH (MG),Revisão,2,943.04,Sim,1
+Fiat Fastback,Transmissão,Baixa,Fiat Porto Alegre (RS),Troca de Peça,5,1716.81,Sim,1
+Fiat Cronos,Carroceria,Baixa,Fiat Salvador (BA),Diagnóstico,19,4967.25,Sim,5
+Fiat Toro,Motor,Média,Fiat RJ (RJ),Diagnóstico,2,3274.47,Sim,1
+Fiat Cronos,Interior,Baixa,Fiat Salvador (BA),Revisão,18,4467.15,Sim,3
+Fiat Fastback,Suspensão,Média,Fiat RJ (RJ),Troca de Peça,19,4875.04,Sim,3
+Fiat Fastback,Elétrica,Alta,Fiat Porto Alegre (RS),Diagnóstico,3,192.08,Não,1
+Fiat Pulse,Suspensão,Média,Fiat Porto Alegre (RS),Diagnóstico,11,2844.8,Não,1
+Fiat Strada,Freios,Alta,Fiat BH (MG),Troca de Peça,7,4509.72,Sim,3
+Fiat Toro,Motor,Baixa,Fiat Porto Alegre (RS),Revisão,10,2302.74,Sim,3
+Fiat Toro,Freios,Baixa,Fiat Porto Alegre (RS),Recall,11,4729.52,Sim,4
+Fiat Strada,Suspensão,Alta,Fiat Salvador (BA),Recall,6,1744.08,Sim,5
+Fiat Fastback,Elétrica,Alta,Fiat SP (SP),Troca de Peça,14,4856.88,Sim,4
+Fiat Argo,Suspensão,Baixa,Fiat Salvador (BA),Recall,3,284.27,Não,4
+Fiat Toro,Carroceria,Alta,Fiat SP (SP),Recall,20,974.6,Sim,5
+Fiat Cronos,Transmissão,Baixa,Fiat Porto Alegre (RS),Diagnóstico,6,3281.55,Não,2
+Fiat Strada,Transmissão,Média,Fiat RJ (RJ),Diagnóstico,7,2649.89,Não,4
+Fiat Cronos,Elétrica,Alta,Fiat SP (SP),Revisão,3,4825.04,Não,2
+Fiat Argo,Freios,Baixa,Fiat Porto Alegre (RS),Troca de Peça,14,1826.2,Sim,1
+Fiat Argo,Interior,Média,Fiat RJ (RJ),Troca de Peça,17,1508.92,Sim,1
+Fiat Argo,Transmissão,Média,Fiat SP (SP),Troca de Peça,7,4281.95,Sim,1
+Fiat Toro,Interior,Baixa,Fiat Salvador (BA),Revisão,17,2286.38,Não,5
+Fiat Argo,Acessórios,Média,Fiat RJ (RJ),Revisão,8,357.7,Sim,5
+Fiat Fastback,Suspensão,Baixa,Fiat SP (SP),Recall,6,1962.79,Não,3
+Fiat Fastback,Motor,Alta,Fiat Porto Alegre (RS),Revisão,20,1255.11,Não,2
+Fiat Fastback,Carroceria,Alta,Fiat SP (SP),Revisão,2,2826.28,Sim,2
+Fiat Fastback,Carroceria,Baixa,Fiat SP (SP),Recall,12,2427.18,Não,5
+Fiat Strada,Freios,Baixa,Fiat BH (MG),Recall,7,496.43,Sim,3
+Fiat Pulse,Carroceria,Alta,Fiat Salvador (BA),Troca de Peça,18,2176.33,Sim,5
+Fiat Toro,Acessórios,Baixa,Fiat BH (MG),Recall,10,172.05,Sim,1
+Fiat Cronos,Elétrica,Média,Fiat RJ (RJ),Revisão,5,4173.81,Não,4
+Fiat Argo,Freios,Alta,Fiat SP (SP),Revisão,19,1849.45,Sim,3
+Fiat Argo,Elétrica,Baixa,Fiat Porto Alegre (RS),Recall,5,2250.23,Não,5
+Fiat Strada,Transmissão,Média,Fiat BH (MG),Revisão,9,4247.26,Sim,3
+Fiat Strada,Elétrica,Média,Fiat Salvador (BA),Revisão,11,3484.92,Não,1
+Fiat Cronos,Suspensão,Baixa,Fiat RJ (RJ),Troca de Peça,3,1159.7,Sim,4
+Fiat Cronos,Transmissão,Média,Fiat Salvador (BA),Revisão,12,3443.84,Não,4
+Fiat Cronos,Acessórios,Média,Fiat Porto Alegre (RS),Revisão,8,1357.44,Sim,1
+Fiat Fastback,Transmissão,Baixa,Fiat BH (MG),Recall,18,240.4,Não,4
+Fiat Cronos,Motor,Média,Fiat Porto Alegre (RS),Recall,16,4061.59,Sim,5
+Fiat Strada,Carroceria,Baixa,Fiat RJ (RJ),Revisão,4,1175.18,Sim,2
+Fiat Cronos,Motor,Média,Fiat RJ (RJ),Troca de Peça,11,2540.69,Sim,4
+Fiat Toro,Transmissão,Média,Fiat SP (SP),Recall,2,135.21,Sim,2
+Fiat Argo,Elétrica,Média,Fiat SP (SP),Recall,2,2024.35,Sim,1
+Fiat Fastback,Interior,Média,Fiat SP (SP),Recall,13,3440.16,Não,4
+Fiat Fastback,Motor,Alta,Fiat RJ (RJ),Revisão,13,3456.39,Sim,3
+Fiat Cronos,Freios,Média,Fiat Salvador (BA),Troca de Peça,14,985.7,Sim,1
+Fiat Argo,Acessórios,Média,Fiat BH (MG),Troca de Peça,19,4872.25,Sim,3
+Fiat Strada,Carroceria,Baixa,Fiat Salvador (BA),Recall,11,2290.19,Sim,3
+Fiat Fastback,Suspensão,Alta,Fiat BH (MG),Diagnóstico,4,3044.93,Sim,2
+Fiat Strada,Elétrica,Alta,Fiat BH (MG),Diagnóstico,15,1898.56,Sim,5
+Fiat Cronos,Transmissão,Baixa,Fiat Salvador (BA),Recall,19,2438.26,Sim,2
+Fiat Pulse,Acessórios,Baixa,Fiat Salvador (BA),Troca de Peça,3,1396.41,Não,4
+Fiat Pulse,Transmissão,Média,Fiat Salvador (BA),Recall,12,2347.77,Sim,2
+Fiat Pulse,Acessórios,Média,Fiat BH (MG),Diagnóstico,13,830.48,Sim,1
+Fiat Fastback,Carroceria,Alta,Fiat Porto Alegre (RS),Troca de Peça,14,502.42,Não,5
+Fiat Toro,Elétrica,Média,Fiat BH (MG),Diagnóstico,10,1698.77,Sim,1
+Fiat Cronos,Freios,Baixa,Fiat RJ (RJ),Diagnóstico,20,690.56,Não,5
+Fiat Cronos,Carroceria,Média,Fiat Salvador (BA),Revisão,20,2487.85,Sim,3
+Fiat Argo,Elétrica,Baixa,Fiat Porto Alegre (RS),Revisão,1,1591.06,Não,3
+Fiat Argo,Suspensão,Alta,Fiat SP (SP),Revisão,16,3547.61,Sim,3
+Fiat Fastback,Motor,Média,Fiat BH (MG),Diagnóstico,5,3448.63,Não,1
+Fiat Pulse,Transmissão,Baixa,Fiat RJ (RJ),Diagnóstico,9,3262.75,Não,3
+Fiat Toro,Elétrica,Baixa,Fiat BH (MG),Recall,8,236.8,Sim,1
+Fiat Fastback,Transmissão,Baixa,Fiat Salvador (BA),Diagnóstico,8,947.01,Sim,4
+Fiat Fastback,Interior,Alta,Fiat Porto Alegre (RS),Recall,14,3325.38,Sim,3
+Fiat Argo,Motor,Baixa,Fiat Porto Alegre (RS),Diagnóstico,10,2692.92,Não,4
+Fiat Argo,Suspensão,Baixa,Fiat RJ (RJ),Diagnóstico,12,805.19,Não,2
+Fiat Pulse,Suspensão,Baixa,Fiat BH (MG),Diagnóstico,16,2060.43,Sim,4
+Fiat Cronos,Suspensão,Média,Fiat BH (MG),Revisão,15,734.41,Sim,1
+Fiat Argo,Interior,Baixa,Fiat Salvador (BA),Revisão,7,439.16,Sim,1
+Fiat Cronos,Motor,Baixa,Fiat SP (SP),Troca de Peça,19,2156.53,Sim,3
+Fiat Cronos,Carroceria,Média,Fiat BH (MG),Recall,3,3746.88,Sim,1
+Fiat Toro,Suspensão,Baixa,Fiat Porto Alegre (RS),Troca de Peça,12,2093.05,Sim,4
+Fiat Argo,Carroceria,Média,Fiat Salvador (BA),Troca de Peça,18,2269.37,Sim,4
+Fiat Pulse,Elétrica,Baixa,Fiat RJ (RJ),Revisão,10,3015.36,Não,5
+Fiat Strada,Elétrica,Alta,Fiat Salvador (BA),Revisão,14,2542.47,Sim,5
+Fiat Cronos,Carroceria,Média,Fiat Porto Alegre (RS),Revisão,9,868.13,Sim,5
+Fiat Argo,Elétrica,Alta,Fiat SP (SP),Recall,12,2111.95,Não,2
+Fiat Cronos,Suspensão,Média,Fiat Porto Alegre (RS),Diagnóstico,6,131.24,Sim,4
+Fiat Argo,Transmissão,Alta,Fiat Porto Alegre (RS),Diagnóstico,4,2982.78,Sim,2
+Fiat Toro,Transmissão,Alta,Fiat BH (MG),Recall,15,2634.04,Sim,1
+Fiat Strada,Suspensão,Média,Fiat SP (SP),Revisão,15,3975.23,Sim,3
+Fiat Strada,Freios,Baixa,Fiat SP (SP),Troca de Peça,2,2188.09,Sim,2
+Fiat Argo,Acessórios,Alta,Fiat BH (MG),Revisão,8,2492.79,Não,5
+Fiat Argo,Carroceria,Baixa,Fiat SP (SP),Revisão,18,3366.21,Não,2
+Fiat Cronos,Transmissão,Média,Fiat SP (SP),Revisão,17,4961.4,Sim,1
+Fiat Fastback,Freios,Média,Fiat Salvador (BA),Recall,9,1823.14,Não,1
+Fiat Strada,Elétrica,Alta,Fiat SP (SP),Diagnóstico,19,1668.14,Sim,3
+Fiat Argo,Freios,Média,Fiat SP (SP),Diagnóstico,20,4420.45,Não,5
+Fiat Toro,Freios,Baixa,Fiat RJ (RJ),Recall,15,1493.41,Sim,3
+Fiat Pulse,Interior,Média,Fiat Porto Alegre (RS),Recall,12,4882.48,Não,2
+Fiat Pulse,Acessórios,Baixa,Fiat SP (SP),Diagnóstico,15,1818.24,Não,2
+Fiat Cronos,Freios,Baixa,Fiat BH (MG),Troca de Peça,16,4814.02,Não,3
+Fiat Cronos,Acessórios,Média,Fiat Porto Alegre (RS),Recall,5,2889.55,Não,2
+Fiat Strada,Elétrica,Média,Fiat SP (SP),Diagnóstico,5,3345.16,Sim,2
+Fiat Strada,Acessórios,Baixa,Fiat Porto Alegre (RS),Recall,3,3760.55,Não,4
+Fiat Cronos,Acessórios,Baixa,Fiat BH (MG),Diagnóstico,16,2925.33,Sim,2
+Fiat Pulse,Carroceria,Baixa,Fiat RJ (RJ),Revisão,10,281.02,Sim,3
+Fiat Argo,Elétrica,Alta,Fiat Porto Alegre (RS),Diagnóstico,13,1221.04,Sim,1
+Fiat Pulse,Freios,Média,Fiat RJ (RJ),Recall,10,3805.43,Sim,2
+Fiat Strada,Interior,Baixa,Fiat Salvador (BA),Troca de Peça,19,4409.95,Não,5
+Fiat Toro,Interior,Média,Fiat Porto Alegre (RS),Recall,16,1141.45,Sim,4
+Fiat Argo,Carroceria,Baixa,Fiat Salvador (BA),Troca de Peça,6,4931.24,Sim,3
+Fiat Cronos,Carroceria,Alta,Fiat Salvador (BA),Troca de Peça,16,1160.33,Sim,5
+Fiat Argo,Suspensão,Média,Fiat BH (MG),Recall,8,4107.16,Sim,3
+Fiat Fastback,Motor,Alta,Fiat RJ (RJ),Diagnóstico,19,1705.42,Sim,4
+Fiat Cronos,Interior,Média,Fiat BH (MG),Troca de Peça,17,620.18,Sim,1
+Fiat Pulse,Motor,Média,Fiat BH (MG),Diagnóstico,17,985.28,Sim,4
+Fiat Cronos,Acessórios,Baixa,Fiat RJ (RJ),Revisão,20,1108.93,Não,3
+Fiat Toro,Transmissão,Média,Fiat Salvador (BA),Recall,19,1251.99,Sim,5
+Fiat Fastback,Motor,Alta,Fiat Porto Alegre (RS),Revisão,18,1232.73,Sim,1
+Fiat Cronos,Transmissão,Média,Fiat Salvador (BA),Troca de Peça,4,1463.93,Sim,2
+Fiat Toro,Freios,Baixa,Fiat Porto Alegre (RS),Troca de Peça,6,215.16,Sim,2
+Fiat Toro,Motor,Alta,Fiat Porto Alegre (RS),Revisão,3,3959.29,Não,2
+Fiat Toro,Carroceria,Alta,Fiat Porto Alegre (RS),Troca de Peça,7,532.47,Sim,3
+Fiat Strada,Motor,Baixa,Fiat SP (SP),Troca de Peça,3,2552.61,Não,3
+Fiat Pulse,Transmissão,Média,Fiat BH (MG),Revisão,19,4411.31,Sim,2
+Fiat Argo,Freios,Baixa,Fiat RJ (RJ),Diagnóstico,10,3187.74,Sim,2
+Fiat Cronos,Motor,Baixa,Fiat RJ (RJ),Recall,7,559.57,Sim,2
+Fiat Strada,Suspensão,Média,Fiat Salvador (BA),Troca de Peça,11,983.9,Sim,2
+Fiat Strada,Acessórios,Alta,Fiat Porto Alegre (RS),Revisão,3,1825.32,Não,1
+Fiat Cronos,Carroceria,Alta,Fiat Salvador (BA),Diagnóstico,16,4278.18,Sim,5
+Fiat Strada,Freios,Média,Fiat BH (MG),Recall,4,669.6,Sim,5
+Fiat Cronos,Carroceria,Baixa,Fiat Porto Alegre (RS),Revisão,6,902.64,Sim,1
+Fiat Pulse,Suspensão,Média,Fiat SP (SP),Revisão,19,4475.57,Sim,2
+Fiat Strada,Carroceria,Alta,Fiat BH (MG),Diagnóstico,4,4452.32,Sim,1
+Fiat Cronos,Acessórios,Baixa,Fiat BH (MG),Troca de Peça,17,2319.09,Sim,2
+Fiat Cronos,Elétrica,Baixa,Fiat BH (MG),Revisão,4,2352.71,Sim,4
